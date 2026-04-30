@@ -70,6 +70,6 @@ The app features a global **Panic Button**.
 Yes. Because we use Firestore, all messages and alerts are persistently stored. If you close the app and reopen it, the history will be reloaded automatically from the cloud.
 
 ---
-
+VERCEL DEPLOYMENT link: https://smart-alert-and-location-coordinati.vercel.app/
 ## 📜 License
 Developed by [satya1545](https://github.com/satya1545) as part of the Final Project.
