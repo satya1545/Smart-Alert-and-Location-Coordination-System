@@ -72,4 +72,4 @@ Yes. Because we use Firestore, all messages and alerts are persistently stored. 
 ---
 
 ## 📜 License
-Developed by [pragnadev](https://github.com/pragnadev) as part of the Final Project.
+Developed by [satya1545](https://github.com/satya1545) as part of the Final Project.
